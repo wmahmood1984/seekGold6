@@ -1,0 +1,235 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins|Roboto"); 
+@import url("https://fonts.googleapis.com/css?family=Poppins|Roboto"); 
+@import url("https://fonts.googleapis.com/css?family=Poppins|Roboto"); 
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&family=Roboto:wght@400;500;700&family=Russo+One&display=swap"); 
+@font-face { 
+  font-family:'Russo One';
+  font-style:normal;
+  font-weight:400;
+  font-display:swap;
+  src:url(https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsHOy8mJrrg.woff2) format('woff2');
+  unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+} 
+@font-face { 
+  font-family:'Russo One';
+  font-style:normal;
+  font-weight:400;
+  font-display:swap;
+  src:url(https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsHOwcmJrrg.woff2) format('woff2');
+  unicode-range:U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+} 
+@font-face { 
+  font-family:'Russo One';
+  font-style:normal;
+  font-weight:400;
+  font-display:swap;
+  src:url(https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsHOz8mJ.woff2) format('woff2');
+  unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+} 
+* { 
+    box-sizing: inherit;
+} 
+
+.css-12rae68 { 
+    background-image: url("https://seekgold.club/static/media/mainbg.3667f5d458213df76851.png"); 
+    background-repeat: no-repeat; 
+    background-position: center center; 
+    background-size: cover; 
+    background-repeat-x: no-repeat; 
+    background-repeat-y: no-repeat;
+} 
+
+body { 
+    -webkit-font-smoothing:  antialiased; 
+    -moz-osx-font-smoothing:  grayscale; 
+    background-color:  rgb(18, 18, 18);
+    font-family:  Roboto, Helvetica, Arial, sans-serif; 
+    margin:  0px; 
+    color: rgb(255, 255, 255); 
+    font-weight: 400; 
+    font-size: 1rem; 
+    line-height: 1.5; 
+    letter-spacing: 0.00938em; 
+} 
+
+html { 
+    -webkit-font-smoothing: antialiased; 
+    box-sizing: border-box; 
+    text-size-adjust: 100%;
+} 
+
+:root { 
+    --toastify-color-info: #3498db; 
+    --toastify-color-success: #07bc0c; 
+    --toastify-color-warning: #f1c40f; 
+    --toastify-color-error: #e74c3c; 
+} 
+
+.css-1qsxih2 { 
+    width: 100%; 
+    margin-left: auto; 
+    box-sizing: border-box; 
+    margin-right: auto; 
+    display: block; 
+    padding-left: 16px; 
+    padding-right: 16px;
+} 
+
+@media (min-width: 600px){ 
+  .css-1qsxih2 { 
+    padding-left: 24px; 
+    padding-right: 24px;
+  } 
+}     
+
+@media (min-width: 1200px){ 
+  .css-1qsxih2 { 
+    max-width: 1200px;
+  } 
+}     
+
+*,:before,:after { 
+    box-sizing: inherit;
+} 
+
+.css-1hhn1j2 { 
+    padding-top: 96px; 
+    padding-bottom: 96px; 
+    display: flex; 
+    flex-direction: column;
+} 
+
+@media (min-width: 0px){ 
+  .css-1hhn1j2 { 
+    width: 100%; 
+    -webkit-box-align: center; 
+    align-items: center; 
+    text-align: center;
+  } 
+}     
+
+@media (min-width: 600px){ 
+  .css-1hhn1j2 { 
+    width: 80%; 
+    -webkit-box-align: start; 
+    align-items: start; 
+    text-align: left;
+  } 
+}     
+
+@media (min-width: 900px){ 
+  .css-1hhn1j2 { 
+    width: 50%;
+  } 
+}     
+
+.css-nlzlwi { 
+    display: flex; 
+    border-bottom: 2px solid rgb(254, 121, 39); 
+    width: 260px;
+} 
+
+.css-x3ndzq { 
+    margin: 0px; 
+    font-size: 1rem; 
+    letter-spacing: 0.00938em; 
+    font-family: "Russo One"; 
+    font-style: normal; 
+    font-weight: 400; 
+    line-height: 58px;
+} 
+
+@media (min-width: 0px){ 
+  .css-x3ndzq { 
+    font-size: 30px;
+  } 
+}     
+
+@media (min-width: 600px){ 
+  .css-x3ndzq { 
+    font-size: 40px;
+  } 
+}     
+
+.css-6cbgiq { 
+    margin: 0px; 
+    letter-spacing: 0.00938em; 
+    padding-top: 16px; 
+    padding-bottom: 40px; 
+    font-family: "Open Sans"; 
+    font-style: normal; 
+    font-weight: 400; 
+    font-size: 16px; 
+    line-height: 22px;
+} 
+
+.css-1wrxqx1 { 
+    display: inline-flex; 
+    -webkit-box-align: center; 
+    align-items: center; 
+    -webkit-box-pack: center; 
+    justify-content: center; 
+    position: relative; 
+    box-sizing: border-box; 
+    -webkit-tap-highlight-color: transparent; 
+    outline: 0px; 
+    border: 0px; 
+    margin: 0px; 
+    cursor: pointer; 
+    user-select: none; 
+    vertical-align: middle; 
+    appearance: none; 
+    line-height: 1.75; 
+    letter-spacing: 0.02857em; 
+    text-transform: uppercase; 
+    min-width: 64px; 
+    padding: 6px 8px; 
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; 
+    font-family: "Open Sans"; 
+    font-style: normal; 
+    font-weight: 600; 
+    font-size: 20px; 
+    background: rgb(210, 177, 77); 
+    color: rgb(255, 255, 255); 
+    width: 190px; 
+    height: 50px; 
+    border-radius: 30px; 
+    text-decoration: none;
+} 
+
+.css-1wrxqx1:hover { 
+    text-decoration: none; 
+    background-color: rgba(144, 202, 249, 0.08);
+} 
+
+.css-17ky6kg { 
+    margin: 0px; 
+    letter-spacing: 0.00938em; 
+    color: rgb(210,177,77); 
+    font-family: "Russo One"; 
+    font-style: normal; 
+    font-weight: 400; 
+    font-size: 48px; 
+    line-height: 58px;
+} 
+
+.css-1tsn8pu { 
+    margin: 0px; 
+    letter-spacing: 0.00938em; 
+    font-family: "Russo One"; 
+    font-style: normal; 
+    font-weight: 400; 
+    font-size: 48px; 
+    line-height: 58px;
+} 
+
+.css-w0pj6f { 
+    overflow: hidden; 
+    pointer-events: none; 
+    position: absolute; 
+    z-index: 0; 
+    inset: 0px; 
+    border-radius: inherit;
+} 
+
+

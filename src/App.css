@@ -13,6 +13,27 @@
   }
 }
 
+.backGround{
+  padding: 25px;
+  background: url("./Images/Img4.jpg");
+  background-repeat: repeat-y;
+  background-position:right;
+  margin: 0 0 0 0;
+  display: block;
+  background-color: rgb(10, 9,40);
+  right: 0%;
+  left: 0%;
+  top: 0%;
+  bottom: 0%;
+  height: 2800px;
+  width: 1599px;
+  padding: 160px 0 64px 0; 
+}
+
+
+
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
